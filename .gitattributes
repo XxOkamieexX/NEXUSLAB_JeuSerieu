@@ -1,0 +1,6 @@
+Content/Fab/** filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/** filter=lfs diff=lfs merge=lfs -text
+Content/CastleAssets/** filter=lfs diff=lfs merge=lfs -text
+
+
+
